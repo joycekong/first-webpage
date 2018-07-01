@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+}
+
+h3 {
+    color: black;
+    text-align: left;
+}
+
+h5 {
+    color: black;
+    text-align: left;
+}
+
+p {
+    font-family: calibri;
+    font-size: 28;
+}
+
+#title{
+    font-family: verdana;
+    text-align: center;
+}
+
+#important{
+    font-size:28;
+    font-family:verdana;
+    color: red;
+}
+
+
+
+/*.hayText{*/
+/*    background:blue;*/
+/*}*/
+
+/*#specialHeader{*/
+/*    color:red; */
+/*    font-size:2; */
+/*    font-family:verdana;*/
+/*}*/
+
